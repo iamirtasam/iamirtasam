@@ -9,7 +9,7 @@
 
 ## Connect with me  :
 
-[![Discord Presence](https://livediscord.xyz/embed/1007633493427228672.png?transparent=false)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1007633493427228672?showDisplayName=true&theme=dark)](https://discord.com/users/1007633493427228672)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
