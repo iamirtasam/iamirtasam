@@ -20,7 +20,7 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 #  GitHub Stats:
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=iamirtasam&theme=python-dark&locale=de)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamirtasam&theme=dark&locale=de)](https://git.io/streak-stats)
 
 
 ---
