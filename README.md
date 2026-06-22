@@ -26,7 +26,7 @@
 <img align="right" width="300" src="https://api.daily.dev/devcards/v2/NnmMYNwJY8CNrk3E7Wf1o.png?type=default&r=m79" alt="Irtasam's Dev Card" />
 
 - A **student** who turns half-baked ideas into things that actually run
-- Native **German**, fluent **English**, and **Ruby** when the mood strikes
+- Native **Urdu**, fluent **English**, **German** and **Ruby** when the mood strikes
 - I like building full-stack products end-to-end — frontend, backend, the whole pipeline
 - Preference, as always: **pretty eyes**
 
@@ -87,5 +87,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="footer" />
 
-<sub><i>building ideas into real things · distracted by pretty eyes</i></sub>
+<sub><i>building ideas into real things · distracted by pretty eyes & thick thighs</i></sub>
 </div>
