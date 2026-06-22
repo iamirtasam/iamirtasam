@@ -1,26 +1,93 @@
-<a href="https://app.daily.dev/iamirtasam"><img src="https://api.daily.dev/devcards/v2/NnmMYNwJY8CNrk3E7Wf1o.png?type=wide&r=m79" width="652" alt="Irtasam's Dev Card"/></a>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=iamirtasam\&data=followers,repositories,stars,commits\&theme=viridescent)](https://github.com/iamirtasam)
-## About Me :
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--  IRTASAM · GitHub profile README                                 -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-- 🏢 I am currently working as a **Dumb Student with some skills** 
-- My main language is German but I also speak English and Ruby sometimes
-- I love turning ideas in my head into real things
-- Preference: pretty eyes
+<div align="center">
 
-## Connect with me  :
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=230&section=header&text=Irtasam&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=turning%20the%20ideas%20in%20my%20head%20into%20real%20things&descSize=18&descAlignY=60" width="100%" alt="Irtasam" />
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1007633493427228672?showDisplayName=true&theme=dark)](https://discord.dog/irtasam)
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=BB9AF7&center=true&vCenter=true&width=620&lines=Dumb+student+with+some+skills;German+%3E+English+%3E+Ruby+(sometimes);I+ship+more+than+I+probably+should;Weakness%3A+pretty+eyes" alt="typing animation" />
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+<br/><br/>
 
-#  GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamirtasam&theme=dark&locale=de)](https://git.io/streak-stats)
+<img src="https://komarev.com/ghpvc/?username=iamirtasam&style=for-the-badge&color=bb9af7&label=VISITORS" alt="visitors" />
+<a href="https://github.com/iamirtasam"><img src="https://img.shields.io/github/followers/iamirtasam?style=for-the-badge&color=7aa2f7&labelColor=1a1b27&logo=github" alt="followers" /></a>
+<img src="https://img.shields.io/badge/open%20to-freelance%20work-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="open to work" />
 
+</div>
 
----
+<br/>
+
+<img src="https://api.iconify.design/lucide/sparkles.svg?color=%23BB9AF7" width="22" align="left" />
+
+## About Me
+
+<img align="right" width="300" src="https://api.daily.dev/devcards/v2/NnmMYNwJY8CNrk3E7Wf1o.png?type=default&r=m79" alt="Irtasam's Dev Card" />
+
+- A **student** who turns half-baked ideas into things that actually run
+- Native **German**, fluent **English**, and **Ruby** when the mood strikes
+- I like building full-stack products end-to-end — frontend, backend, the whole pipeline
+- Recently shipped **[Zeloh](https://github.com/iamirtasam/zeloh)**, a full-stack platform, in **4 days**
+- Preference, as always: **pretty eyes**
+
+<br clear="right"/>
+
+<img src="https://api.iconify.design/lucide/layers.svg?color=%23BB9AF7" width="22" align="left" />
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ruby,go,nodejs,aws,azure,gcp,dynamodb,selenium,playwright,ps,pr,github&perline=7&theme=dark" alt="tech stack" />
+
+<br/><br/>
+
+<sub>also at home with <b>DigitalOcean</b> · <b>SciPy</b> · automation & scraping</sub>
+
+</div>
+
+<br/>
+
+<img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23BB9AF7" width="22" align="left" />
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamirtasam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamirtasam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=iamirtasam&theme=tokyonight&hide_border=true&locale=de" alt="streak" width="495" />
+
+</div>
+
+<br/>
+
+<img src="https://api.iconify.design/lucide/link.svg?color=%23BB9AF7" width="22" align="left" />
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://discord.dog/irtasam">
+  <img src="https://lanyard.cnrad.dev/api/1007633493427228672?showDisplayName=true&theme=dark&bg=1a1b27&borderRadius=12px&idleMessage=probably%20staring%20at%20pretty%20eyes" alt="Discord presence" />
+</a>
+
+<br/><br/>
+
+<a href="https://app.daily.dev/iamirtasam"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" alt="daily.dev" /></a>
+<a href="https://github.com/iamirtasam"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="footer" />
+
+<sub><i>building ideas into real things · distracted by pretty eyes</i></sub>
+</div>
