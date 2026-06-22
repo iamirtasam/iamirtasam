@@ -14,7 +14,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=iamirtasam&style=for-the-badge&color=bb9af7&label=VISITORS" alt="visitors" />
 <a href="https://github.com/iamirtasam"><img src="https://img.shields.io/github/followers/iamirtasam?style=for-the-badge&color=7aa2f7&labelColor=1a1b27&logo=github" alt="followers" /></a>
-<img src="https://img.shields.io/badge/open%20to-freelance%20work-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="open to work" />
 
 </div>
 
@@ -29,7 +28,6 @@
 - A **student** who turns half-baked ideas into things that actually run
 - Native **German**, fluent **English**, and **Ruby** when the mood strikes
 - I like building full-stack products end-to-end — frontend, backend, the whole pipeline
-- Recently shipped **[Zeloh](https://github.com/iamirtasam/zeloh)**, a full-stack platform, in **4 days**
 - Preference, as always: **pretty eyes**
 
 <br clear="right"/>
@@ -56,7 +54,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamirtasam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamirtasam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamirtasam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 
 <br/><br/>
