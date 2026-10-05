@@ -41,15 +41,27 @@
 
 <br/>
 
-<img src="https://api.iconify.design/lucide/star.svg?color=%237AA2F7" width="20" align="left" />
+<img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%237AA2F7" width="20" align="left" />
 
-## Featured
+## Repositories
 
-<a href="https://github.com/iamirtasam/pms-selfbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamirtasam&repo=pms-selfbot&theme=tokyonight&hide_border=true" alt="pms-selfbot" />
-</a>
+**Platforms & Bots**
 
-<sub>EMS staff-management portal + Discord selfbot — verifies roleplay attendance, syncs it to Firebase, and generates weekly Google Sheets reports.</sub>
+| Repo | About |
+|---|---|
+| [pms-management](https://github.com/iamirtasam/pms-management) | EMS staff portal + Discord selfbot — verifies roleplay attendance, syncs to Firebase, generates weekly Google Sheets reports <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> |
+| [discord-slots-bot](https://github.com/iamirtasam/discord-slots-bot) | Advanced Discord slot bot with Components V2 UI for rented slot channels <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> |
+| [chippa-productions](https://github.com/iamirtasam/chippa-productions) | WhatsApp automation bot <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> |
+| [cryptoswap](https://github.com/iamirtasam/cryptoswap) | Automated BSC token exchange engine <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> |
+
+**Web Apps**
+
+| Repo | About |
+|---|---|
+| [Project-Zeloh](https://github.com/iamirtasam/Project-Zeloh) | Full-stack movie-investment & rewards platform — React PWA, hardened Node/Express API, Supabase, Redis, atomic crypto flows <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> |
+| [AWS-AI-Practitioner-Exam-Mock](https://github.com/iamirtasam/AWS-AI-Practitioner-Exam-Mock) | Free AIF-C01 practice exams — 528 questions, timed simulator, spaced repetition. Fully in-browser, no backend <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> |
+| [khidmatgar-ai](https://github.com/iamirtasam/khidmatgar-ai) | Google Hackathon 2026 project, built with AI <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> |
+| [Minecraft-AFK-Bot-Vibecoded](https://github.com/iamirtasam/Minecraft-AFK-Bot-Vibecoded) | Keeps Minecraft servers 24/7 active <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> |
 
 <br/>
 
@@ -79,7 +91,6 @@
 <br/>
 
 <a href="https://discord.dog/irtasam"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://app.daily.dev/iamirtasam"><img src="https://img.shields.io/badge/daily.dev-000000?style=flat-square&logo=daily.dev&logoColor=white" alt="daily.dev" /></a>
 <a href="https://github.com/iamirtasam"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
