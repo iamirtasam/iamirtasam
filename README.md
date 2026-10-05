@@ -65,6 +65,27 @@
 
 <br/>
 
+<img src="https://api.iconify.design/lucide/rocket.svg?color=%23BB9AF7" width="20" align="left" />
+
+## Coming Soon
+
+<div align="center">
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=7AA2F7&center=true&vCenter=true&width=560&lines=something+new+is+compiling...;ideas+in+my+head%3A+queued;the+next+build+starts+when+the+coffee+does;sneak+peek%3A+soon%E2%84%A2" alt="typing animation" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ideas_in_queue-%E2%88%9E-bb9af7?style=flat-square&labelColor=1a1b27" alt="ideas" />
+<img src="https://img.shields.io/badge/status-brewing-7aa2f7?style=flat-square&labelColor=1a1b27" alt="status" />
+<img src="https://img.shields.io/badge/motivation-renewable-bb9af7?style=flat-square&labelColor=1a1b27" alt="motivation" />
+<img src="https://img.shields.io/badge/ETA-soon%E2%84%A2-7aa2f7?style=flat-square&labelColor=1a1b27" alt="ETA" />
+
+</div>
+
+<br/>
+
 <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%237AA2F7" width="20" align="left" />
 
 ## Stats
