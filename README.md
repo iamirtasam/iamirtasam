@@ -101,13 +101,13 @@
 
 <div align="center">
 
-<a href="https://discord.dog/irtasam">
+<a href="https://discord.com/users/1007633493427228672">
   <img src="https://lanyard.cnrad.dev/api/1007633493427228672?showDisplayName=true&theme=dark&bg=1a1b27&borderRadius=12px&idleMessage=probably%20shipping%20something" alt="Discord presence" />
 </a>
 
 <br/>
 
-<a href="https://discord.dog/irtasam"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://discord.com/users/1007633493427228672"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://github.com/iamirtasam"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
